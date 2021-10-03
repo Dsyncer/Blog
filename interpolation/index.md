@@ -392,7 +392,7 @@ We also calculate the linear interpolation between *q<sub>1</sub>* and *q<sub>2<
 Finally, we get the result of our cubic Bézier interpolation as a linear
 interpolation between *r<sub>0</sub>* и *r<sub>1</sub>*
 
-### **r<sub>0</sub> + (r<sub>1</sub> - r<sub>0</sub>)t = кубическая интерполяция Безье**
+### **r<sub>0</sub> + (r<sub>1</sub> - r<sub>0</sub>)t = сubic Bézier interpolation**
 
 If you expand this formula, you get the following:
 
