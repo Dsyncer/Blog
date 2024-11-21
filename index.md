@@ -13,6 +13,7 @@
 ## Mobile:
 * ### [Offline-First App Support 1](https://www.dataart.team/articles/mobile-offline-synchronization-part-1)
 * ### [Offline-First App Support 2](https://www.dataart.team/articles/offline-first-excellence)
+* ### [Offline-First App Support 3](https://www.dataart.team/articles/overcoming-offline-first-challenges-with-shared-data)
 
 
 <br><br>
