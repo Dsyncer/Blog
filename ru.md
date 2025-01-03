@@ -12,7 +12,6 @@
 * [Github](https://github.com/Dsyncer)
 * [Linkedin](https://www.linkedin.com/in/denis-yatsenko-39b746213/)
 * Email: dysncer@gmail.com
-* [VK](https://vk.com/dsyncer)
 
 ---
 Copyright &copy; 2021, Denis Yatsenko.
