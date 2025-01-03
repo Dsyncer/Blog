@@ -1,4 +1,4 @@
-# Denis Yatsenko's blog
+# Hi, my name is Denis and I write articles on different topics
 
 # Articles:
 
