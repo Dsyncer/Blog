@@ -1,4 +1,4 @@
-# Блог Дениса Яценко
+# Привет, меня зовут Денис и я пишу статьи на разные темы
 
 ## Статьи:
 
@@ -13,7 +13,6 @@
 * [Linkedin](https://www.linkedin.com/in/denis-yatsenko-39b746213/)
 * Email: dysncer@gmail.com
 * [VK](https://vk.com/dsyncer)
-* Ethereum wallet address: `0x53F64dfd0a6269E9ff48851E8b41B81287B44b62`
 
 ---
 Copyright &copy; 2021, Denis Yatsenko.
