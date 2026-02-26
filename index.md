@@ -21,7 +21,7 @@
 ---
 ### Author of the text and all materials: Denis Yatsenko
 * [Github](https://github.com/Dsyncer)
-* [Linkedin](https://www.linkedin.com/in/denis-yatsenko-39b746213/](https://www.linkedin.com/in/denis-motin/)
+* [Linkedin](https://www.linkedin.com/in/denis-motin/)
 * Email: denis.motin.work@gmail.com
 
 ---
